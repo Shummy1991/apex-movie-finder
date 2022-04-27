@@ -17,7 +17,7 @@ const Movies = ({ movies, handleGetRelatedMovies }: IMoviesProps) => {
                     <CardContent className="movie-card-content">
                         <Grid container spacing={2}>
                             <Grid item xs={4}>
-                                <img src={movie.img?.url} className="movie-image" />
+                                <img alt={movie.name} src={movie.img?.url} className="movie-image" />
                             </Grid>
                             <Grid item xs={8}>
                                 <h4 onClick={() => setSelectedMovie(movie.id)}>

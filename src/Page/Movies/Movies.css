@@ -1,0 +1,27 @@
+.movie-image {
+    width: 100%;
+    border: 1px solid white;
+}
+
+.movie-card-content {
+    background-color: #212e3c;
+    padding-bottom: 16px !important;
+}
+
+h4 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-size: 21px;
+    cursor: pointer;
+}
+
+.movie-genres {
+    font-style: italic;
+    margin-top: 12px;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.movie-score {
+    font-size: 15px;
+}

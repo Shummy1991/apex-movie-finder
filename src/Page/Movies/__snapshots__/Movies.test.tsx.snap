@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieDetails matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1p5q5e5-MuiStack-root"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-bhp9pd-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiCardContent-root movie-card-content css-46bh2p-MuiCardContent-root"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+          >
+            <img
+              class="movie-image"
+              src="https://myimage.com/image.jpg"
+            />
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 css-vok43g-MuiGrid-root"
+          >
+            <h4>
+              The batman
+            </h4>
+            <div
+              class="movie-genres"
+            >
+              genre 1, genre 2
+            </div>
+            <div
+              class="movie-score"
+            >
+              Score: 5.4
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

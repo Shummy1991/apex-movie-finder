@@ -1,0 +1,15 @@
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-variant: small-caps;
+}
+
+header {
+    position: sticky;
+    background-color: #0b1929;
+    top: 0;
+    padding-top: 4px;
+    padding-bottom: 24px;
+}

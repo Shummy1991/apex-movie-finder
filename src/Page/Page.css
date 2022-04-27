@@ -1,0 +1,12 @@
+.movies-progress {
+    margin-top: 144px;
+    display: flex;
+    justify-content: center;
+}
+
+.no-results {
+    margin-top: 144px;
+    text-align: center;
+    color: white;
+    font-size: 21px;
+}

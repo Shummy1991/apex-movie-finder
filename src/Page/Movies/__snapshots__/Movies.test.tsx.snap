@@ -18,6 +18,7 @@ exports[`MovieDetails matches snapshot 1`] = `
             class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
           >
             <img
+              alt="The batman"
               class="movie-image"
               src="https://myimage.com/image.jpg"
             />
